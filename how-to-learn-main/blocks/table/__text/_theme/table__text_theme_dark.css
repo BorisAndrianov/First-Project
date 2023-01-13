@@ -1,0 +1,8 @@
+.table__text_theme_dark {
+  color: #ffffff;
+  z-index: 1;
+}
+.table__text_theme_dark:last-child {
+  margin-bottom: 0;
+  z-index: 1;
+}
